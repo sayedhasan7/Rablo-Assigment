@@ -1,9 +1,9 @@
 # Rablo-Assigment
 
-#Backend Intern Assignment
+# Backend Intern Assignment
 
-#Assignment(48 Hours)
-#Task 1 (50 Points) : Create a Products API .
+# Assignment(48 Hours)
+# Task 1 (50 Points) : Create a Products API .
 Tech stack : Node JS , MongoDB , Express JS , Mongoose
 Product fields :
 
@@ -31,7 +31,7 @@ Implement authentication so that only authenticated users are
 allowed to perform CRUD operations.
 
 
-#Task 2 (25 points) : Create a frontend app to show all products and
+# Task 2 (25 points) : Create a frontend app to show all products and
 a basic form to add product. Implement validations like required
 fields and input type of fields .e.g. Name field is required , Price
 field should contain digits only etc.
@@ -44,12 +44,12 @@ Recommendations :
 • Frontend : Vercel , Netlify , Github pages etc
 • API server : Railway etc
 
-#Submission Format :
+# Submission Format :
 • Code : Github Link
 • Hosted app and server link
 
 
-#Submission :-
-Github Code Link :- https://github.com/sayedhasan7/Rablo-Assigment
-Hostep App Link :- https://thunderous-tarsier-cfce62.netlify.app.
+# Submission :-
+## Github Code Link :- https://github.com/sayedhasan7/Rablo-Assigment.
+### Hostep App Link :- https://thunderous-tarsier-cfce62.netlify.app.
 
